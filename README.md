@@ -8,6 +8,4 @@ We set 3 goals for the project:
 2. Compare the predictions to the actual values of 2022 to show the effect of the Russian invasion
 3. Predict gas prices and consumption for rest of 2022 and 2023 based on the actual 2022-data using 2 different scenarios of gas supply by Russia to the EU
 
-In our project we used different models for the predictions and used to best one for the presentation.
-
 Further visualizations can be found at 
