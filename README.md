@@ -1,22 +1,13 @@
 # Energy-prediction
+### Final Project from DataScience-Bootcamp by Shravanti Yerawar and René Wollny
 
+As everyone in Europe has noticed that the gas prices increased in 2022, we wanted to find out in this project, if those increasing prices could have been predicted based on historical data and what the influence of the invasion of Russia into Ukraine had on those increased gas prices.
 
-├── data            
-│   ├── final                       # data after training the model
-│   ├── processed                   # data after processing
-│   ├── raw                         # raw data
-│   └── raw.dvc                     # DVC file of data/raw
-├── notebooks 
-    ├── Gas Consumption             
-        ├── Train                   # store notebook for training dataset of gas consumption
-        └── Predict                 # store notebook for Predict dataset of gas consumption
-    └── Price                         
-        ├── Train                   # store notebook for training dataset of price
-        └── Predict                 # store notebook for Predict dataset of price
-├── ML models                       # Configurations for training model
-│   ├── model1                      # Using one hot encoding to train model
-│   └── model2                      # Without one hot encoding of parameters to train model
-├── docs                            # documentation for your project 
-├── Visuliazation                   # Graphical Representation of project using Tableau 
-├── Presentation                    # presentation of whole project
-├── README.md                       # describe your project
+We set 3 goals for the project:
+1. Predict gas prices and consumption for 2022 based on historical data
+2. Compare the predictions to the actual values of 2022 to show the effect of the Russian invasion
+3. Predict gas prices and consumption for rest of 2022 and 2023 based on the actual 2022-data using 2 different scenarios of gas supply by Russia to the EU
+
+In our project we used different models for the predictions and used to best one for the presentation.
+
+Further visualizations can be found at 
